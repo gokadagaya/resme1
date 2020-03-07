@@ -1,0 +1,33 @@
+{
+  "details":{
+  	"image":"penguines.jpg",
+  	"name":"gaytari",
+  	"email":"gokadagayathri@gmail.com",
+  	"number":"7543894853",
+  	"address":"visakhapatnam"
+  },
+ 
+  	"carrer":{
+  		"info":"to get a software job"
+  	},
+  "educational":[
+  	{
+  	   "institute":"view",
+  	   "degree":"b.tech",
+  	   "percentage":"89%",
+  	   "passoutyear":"2018-2022"
+  },
+  {
+  	   "institute":"sri chaitanya",
+  	   "degree":"intermediate",
+  	   "percentage":"89%",
+  	   "passoutyear":"2018"
+  },
+  {
+  	   "institute":"bhashyam",
+  	   "degree":"ssc",
+  	   "percentage":"93%",
+  	   "passoutyear":"2016"
+  }
+]
+}
